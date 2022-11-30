@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Issue
+    about: Issue template
+    url: https://github.com/yshima42/test/issues/new?projects=yshima42/ft_transcendence/2
